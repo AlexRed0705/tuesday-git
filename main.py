@@ -5,8 +5,6 @@ def my_superfunction():
 def main():
     print('My first Git Program')
     print('other commit')
-    print(2)
-    print(4)
     my_superfunction()
     print(1)
 
